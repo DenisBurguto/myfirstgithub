@@ -10,3 +10,6 @@
 * second element
 * third element
 
+1. numbered first element
+2. numbered second element
+3. numbered third element
