@@ -20,3 +20,4 @@
 1. numbered first element
 2. numbered second element
 3. numbered third element
+## вставка изображений
